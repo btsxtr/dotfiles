@@ -1,2 +1,2 @@
 # dotfiles
-my dot files Mac
+my dot files Mac Basic Configs
